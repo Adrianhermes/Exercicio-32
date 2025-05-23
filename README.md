@@ -1,2 +1,2 @@
 # Exercicio-32
-Exer
+Exercício da faculdade - SI
